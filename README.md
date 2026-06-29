@@ -108,4 +108,6 @@ jupyter notebook
 
 Jamshed Ali
 
+==> A note that the project is for educational purposes and not intended for clinical diagnosis
+
 If you like this project, don't forget to ⭐ the repository.
